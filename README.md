@@ -15,7 +15,7 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/fabio-figueiredo-295a8191/)
+🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/fabio-ffigueiredo/)
 Site: https://fabioffigueiredo.github.io/fabiofigueiredo/
 
 ---
