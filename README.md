@@ -54,11 +54,10 @@ Automação com IA para cotação e análise de câmbio, com IA
 - 📊 Data Analytics com Power BI - DIO
 
 ### 📫 Vamos Conectar!
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://fabioffigueiredo.github.io/fabiofigueiredo/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabio-ffigueiredo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:fabioinformacao@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5521964641561)
 
 ---
-
-💻 [Site-Portifólio](https://fabioffigueiredo.github.io/fabiofigueiredo/)
 ⭐️ From [fabioffigueiredo](https://github.com/fabioffigueiredo)
