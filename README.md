@@ -25,24 +25,24 @@ combinando experiência em infraestrutura com novas competências em análise de
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Tensor-Flow](https://img.shields.io/badge/-tensor--flow-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+
 
 ### 📈 Projetos em Destaque
 
-#### 🏆 [Análise de Dados Financeiros](link-do-repo)
-Pipeline completo de análise de dados do mercado financeiro brasileiro
-- **Tech:** Python, Pandas, Plotly, Streamlit
-- **Destaque:** Previsão de tendências com 85% de acurácia
+#### 🧬 [Projeto de Classificação de Câncer de Mama](https://github.com/fabioffigueiredo/pd_rede_neural)
+Este projeto implementa um pipeline completo de Machine Learning para classificação de câncer de mama, comparando modelos baseline (Regressão Logística) com redes neurais profundas (MLP). O projeto segue as melhores práticas de ciência de dados, incluindo análise exploratória, pré-processamento, modelagem, tuning de hiperparâmetros e validação.
+- **Tech:** Python, Pandas, Plotly, TensorFlow, Keras, Numpy, Scikit-learn
+- **Destaque:** Identificação de câncer de mama
 
-#### 🎵 [Sistema de Recomendação Musical](link-do-repo)
-ML para recomendar trilhas sonoras baseado em preferências
-- **Tech:** Python, Scikit-learn, PostgreSQL
-- **Destaque:** Algoritmo de clustering com K-means
+#### 🏦 [Sistema Bancário DIO](https://github.com/fabioffigueiredo/sistema_bancario_dio)
+Sistema bancário completo desenvolvido para o desafio da DIO (Digital Innovation One), implementando operações bancárias modernas com arquitetura robusta usando FastAPI no backend e React no frontend.
+- **Tech:** Python, FastAPI, REACT, PostgreSQL
+- **Destaque:** Sistema bancario - Cliente
 
-#### 💱 [Bot Inteligente de Câmbio](link-do-repo)
-Automação com IA para cotação e análise de câmbio
-- **Tech:** Python, APIs, WhatsApp Business
-- **Destaque:** 500+ transações automatizadas/mês
+#### 💸 [Bot Inteligente de Câmbio](https://github.com/fabioffigueiredo/projeto-whatsapp-automacao)
+Automação com IA para cotação e análise de câmbio, com IA
+- **Tech:** Python, APIs, WhatsApp Business, n8n
+- **Destaque:** Transações guiadas por IA
 
 ### 📊 GitHub Stats
 
@@ -59,4 +59,6 @@ Automação com IA para cotação e análise de câmbio
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5521964641561)
 
 ---
+
+💻 [Site-Portifólio](https://fabioffigueiredo.github.io/fabiofigueiredo/)
 ⭐️ From [fabioffigueiredo](https://github.com/fabioffigueiredo)
