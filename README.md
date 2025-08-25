@@ -25,6 +25,7 @@ combinando experiência em infraestrutura com novas competências em análise de
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Tensor-Flow](https://img.shields.io/badge/-tensor--flow-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 ### 📈 Projetos em Destaque
 
